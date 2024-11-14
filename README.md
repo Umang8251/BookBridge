@@ -1,1 +1,2 @@
 # BookBridge
+The Affordable Educational Book Resale System is a Database Management System (DBMS) aimed at improving access to educational resources for underprivileged students. This system is designed to simplify and optimize the process of collecting, storing, and distributing donated and affordable books, ensuring they reach students who might otherwise struggle to obtain these materials. With a focus on ease of use, the platform allows donors to effortlessly contribute books, while students can browse and access relevant resources at little to no cost.
